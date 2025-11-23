@@ -1,4 +1,1 @@
-# Reaper-os
-a small project of my first os (it's only a trial)
-It’ll definitely suck but eh, it’s not important. *It* seems fun and eh, never know ‘til you try it. Anyway, this is nothing but a trial by fire anyway.
-Have fun seeing the shitty code that’ll come out of this.
+Reaper-os is a small os made by myself, with no actual purpose. it's only for fun and helps me understand OS better. It's a personnal project but it's not like there's any downside to make it public 

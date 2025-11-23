@@ -1,0 +1,16 @@
+# Documentation personnelle (ne pas partager sur GitHub)
+DOCUMENTATION.md
+
+# Fichiers binaires générés par la compilation
+*.bin
+*.img
+
+# Fichiers temporaires Windows
+Thumbs.db
+Desktop.ini
+
+# Fichiers temporaires généraux
+*.tmp
+*.bak
+*.swp
+*~
